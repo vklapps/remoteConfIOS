@@ -1,25 +1,25 @@
 {
    "channels":[
       {
-         "channel_id":0,
+         "channel_id":"0",
          "direct_hls":"http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da",
          "ustream_id":"17074538",
          "prefered_method":"direct_hls"
       },
       {
-         "channel_id":1,
+         "channel_id":"1",
          "direct_hls":"h",
          "ustream_id":"9408562",
          "prefered_method":"ustream_id"
       },
       {
-         "channel_id":2,
+         "channel_id":"2",
          "direct_hls":"https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7",
          "ustream_id":"6540154",
          "prefered_method":"direct_hls"
       },
       {
-         "channel_id":3,
+         "channel_id":"3",
          "direct_hls":"http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b",
          "ustream_id":"10414700",
          "prefered_method":"direct_hls"
