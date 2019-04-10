@@ -10,19 +10,13 @@
          "channel_id":1,
          "direct_hls":"h",
          "ustream_id":"9408562",
-         "prefered_method":"ustream_id",
-         "":{
-
-         }
+         "prefered_method":"ustream_id"
       },
       {
          "channel_id":2,
          "direct_hls":"https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7",
          "ustream_id":"6540154",
-         "prefered_method":"direct_hls",
-         "":{
-
-         }
+         "prefered_method":"direct_hls"
       },
       {
          "channel_id":3,
