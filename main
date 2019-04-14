@@ -39,7 +39,7 @@
       {
          "channel_id":"6",
          "direct_hls":"h",
-         "ustream_id":"23652372",
+         "ustream_id":"23652372_error",
          "prefered_method":"ustream_id"
       }
    ]
