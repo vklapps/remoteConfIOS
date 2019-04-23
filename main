@@ -61,8 +61,8 @@
          "direct_hls":"h",
          "ustream_id":"",
          "youtube_id":"WMZQoGcHQfY",
-         "default_method":"ustream_id",
-         "prefered_method":"ustream_id"
+         "default_method":"youtube_id",
+         "prefered_method":"youtube_id"
       }
    ]
 }
