@@ -1,0 +1,69 @@
+{
+   "force_play_channel":"1",
+   "channels":[
+      {
+         "channel_id":"0",
+         "direct_hls":"http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da",
+         "ustream_id":"17074538",
+         "youtube_id":"uj3FqkflC7g",
+         "default_method":"youtube_id",
+         "prefered_method":"direct_hls"
+      },
+      {
+         "channel_id":"1",
+         "direct_hls":"h",
+         "ustream_id":"9408562",
+         "youtube_id":" ",
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
+      },
+      {
+         "channel_id":"2",
+         "direct_hls":"https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7",
+         "ustream_id":"6540154",
+         "youtube_id":"p34ETDJN7hU",
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
+      },
+      {
+         "channel_id":"3",
+         "direct_hls":"http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b",
+         "ustream_id":"10414700",
+         "youtube_id":" ",
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
+      },
+      {
+         "channel_id":"4",
+         "direct_hls":"h",
+         "ustream_id":"23652337",
+         "youtube_id":" ",
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
+      },
+      {
+         "channel_id":"5",
+         "direct_hls":"h",
+         "ustream_id":"23652367",
+         "youtube_id":"",
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
+      },
+      {
+         "channel_id":"6",
+         "direct_hls":"h",
+         "ustream_id":"23652372",
+         "youtube_id":" ",
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
+      },
+      {
+         "channel_id":"7",
+         "direct_hls":"h",
+         "ustream_id":"",
+         "youtube_id":"WMZQoGcHQfY",
+         "default_method":"youtube_id",
+         "prefered_method":"youtube_id"
+      }
+   ]
+}
