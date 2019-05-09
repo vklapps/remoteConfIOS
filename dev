@@ -1,5 +1,4 @@
 {
-   "force_play_channel":"2",
    "channels":[
       {
          "channel_id":"0",
@@ -36,7 +35,7 @@
       {
          "channel_id":"4",
          "direct_hls":"h",
-         "ustream_id":"23652337",
+         "ustream_id":"23660654",
          "youtube_id":" ",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
@@ -44,7 +43,7 @@
       {
          "channel_id":"5",
          "direct_hls":"h",
-         "ustream_id":"23652367",
+         "ustream_id":"23660659",
          "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
