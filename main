@@ -13,7 +13,7 @@
          "direct_hls":"h",
          "ustream_id":"9408562",
          "youtube_id":" ",
-         "default_method":"youtube_id",
+         "default_method":"ustream_id",
          "prefered_method":"ustream_id"
       },
       {
