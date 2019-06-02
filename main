@@ -12,7 +12,7 @@
          "channel_id":"1",
          "direct_hls":"h",
          "ustream_id":"9408562",
-         "youtube_id":" ",
+         "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
       },
@@ -36,7 +36,7 @@
          "channel_id":"4",
          "direct_hls":"h",
          "ustream_id":"23660654",
-         "youtube_id":" ",
+         "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
       },
@@ -52,7 +52,7 @@
          "channel_id":"6",
          "direct_hls":"h",
          "ustream_id":"23660663",
-         "youtube_id":" ",
+         "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
       },
