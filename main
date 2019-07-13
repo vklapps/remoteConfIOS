@@ -43,7 +43,7 @@
       {
          "channel_id":"5",
          "direct_hls":"h",
-         "ustream_id":"23672425",
+         "ustream_id":"23681161",
          "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
@@ -51,7 +51,7 @@
       {
          "channel_id":"6",
          "direct_hls":"h",
-         "ustream_id":"23672434",
+         "ustream_id":"23681342",
          "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
