@@ -43,7 +43,7 @@
       {
          "channel_id":"5",
          "direct_hls":"h",
-         "ustream_id":"23681161",
+         "ustream_id":"23692554",
          "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
@@ -51,7 +51,7 @@
       {
          "channel_id":"6",
          "direct_hls":"h",
-         "ustream_id":"23681342",
+         "ustream_id":"23692552",
          "youtube_id":"",
          "default_method":"ustream_id",
          "prefered_method":"ustream_id"
@@ -59,10 +59,10 @@
       {
          "channel_id":"7",
          "direct_hls":"h",
-         "ustream_id":"",
+         "ustream_id":"23697803",
          "youtube_id":"ddFvjfvPnqk",
-         "default_method":"youtube_id",
-         "prefered_method":"youtube_id"
+         "default_method":"ustream_id",
+         "prefered_method":"ustream_id"
       }
    ]
 }
