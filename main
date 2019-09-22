@@ -6,7 +6,7 @@
          "ustream_id":"17074538",
          "youtube_id":"ZU7dhmz09K4",
          "default_method":"youtube_id",
-         "prefered_method":"direct_hls"
+         "prefered_method":"ustream_id"
       },
       {
          "channel_id":"1",
