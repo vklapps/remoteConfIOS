@@ -18,7 +18,7 @@
       },
       {
          "channel_id":"2",
-         "direct_hls":"https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7",
+         "direct_hls":"https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
          "ustream_id":"6540154",
          "youtube_id":"21X5lGlDOfg",
          "default_method":"direct_hls",
