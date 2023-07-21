@@ -37,8 +37,9 @@
          "direct_hls":"h",
          "ustream_id":"23986570",
          "youtube_id":"",
-         "default_method":"ustream_id",
-         "prefered_method":"ustream_id"
+         "requestNotLiveYoutubeUrl":"7bdm5ly2PJ8",
+         "default_method":"requestNotLiveYoutubeUrl",
+         "prefered_method":"requestNotLiveYoutubeUrl"
       },
       {
          "channel_id":"5",
